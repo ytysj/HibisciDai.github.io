@@ -143,7 +143,7 @@ table td {
   vertical-align: top;
 }
 *::selection {
-  background: #000;
+  background: #bed2d9;
   color: #f7f7f7;
 }
 .text-center {
@@ -812,7 +812,7 @@ footer {
   line-height: 1.2rem;
 }
 .recent-post-item .content ul li:hover:before {
-  border-color: #49b1f5;
+  border-color: #b5b5b5;
 }
 .recent-post-item .content ul li:before {
   top: 10px;
@@ -862,7 +862,7 @@ footer {
   transition: all 0.2s ease-in-out;
 }
 .recent-post-item .more:hover {
-  background: #49b1f5;
+  background: #b5b5b5;
 }
 .recent-post-item .article-title {
   display: block;
@@ -893,7 +893,7 @@ footer {
   cursor: pointer;
 }
 .tag-cloud a:hover {
-  color: #49b1f5 !important;
+  color: #b5b5b5 !important;
 }
 .tag-cloud__title {
   font-size: 1.8rem;
@@ -915,7 +915,7 @@ footer {
   line-height: 1;
 }
 .article-sort-title:hover:before {
-  border-color: #49b1f5;
+  border-color: #b5b5b5;
 }
 .article-sort-title:before {
   position: absolute;
@@ -955,7 +955,7 @@ footer {
   transition: all 0.2s ease-in-out;
 }
 .article-sort-item:hover:before {
-  border-color: #49b1f5;
+  border-color: #b5b5b5;
 }
 .article-sort-item:before {
   position: absolute;
@@ -982,7 +982,7 @@ footer {
 }
 .article-sort-item.year:before {
   top: 0.7rem;
-  border-color: #49b1f5;
+  border-color: #b5b5b5;
 }
 .article-sort-item__time {
   position: absolute;
@@ -1441,7 +1441,7 @@ footer {
   line-height: 1.2rem;
 }
 #post-content ul li:hover:before {
-  border-color: #49b1f5;
+  border-color: #b5b5b5;
 }
 #post-content ul li:before {
   top: 10px;
@@ -1670,7 +1670,7 @@ img:hover {
   line-height: 1.6rem;
 }
 #sidebar .author-info .follow-button a:hover {
-  background: #49b1f5;
+  background: #b5b5b5;
 }
 #sidebar .author-info.hide {
   display: none;
@@ -1757,7 +1757,7 @@ img:hover {
   transition: all 0.2s ease-in-out;
 }
 #sidebar .author-info-links__name:hover {
-  background: #49b1f5;
+  background: #b5b5b5;
 }
 #sidebar .author-info-links__name:before {
   position: absolute;
@@ -1887,7 +1887,7 @@ img:hover {
   padding-left: 1.5rem;
 }
 #local-search .local-search__hit-item:hover:before {
-  border-color: #49b1f5;
+  border-color: #b5b5b5;
 }
 #local-search .local-search__hit-item:before {
   position: absolute;
